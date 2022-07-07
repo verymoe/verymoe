@@ -8,9 +8,10 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 * 喜欢摸 ~~萝莉~~
 
 ## 开发环境
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Windows%20Server-2012-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
-[![](https://img.shields.io/badge/Mi-8-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Centos-7.9-blue?style=flat-square&logo=centos)](https://www.microsoft.com/windows-server)
+[![](https://img.shields.io/badge/Windows%20Server-2012-262577?style=flat-square&logo=windows)](https://www.microsoft.com/windows-server)
+[![](https://img.shields.io/badge/Mi-8-f45a00?style=flat-square&logo=xiaomi)](https://www.mi.com/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
