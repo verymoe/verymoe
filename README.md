@@ -17,7 +17,7 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 
 [![](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/OpenJDK-18-red?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/MySQL-5.7-orange?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ## 我的Gayhub
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ShiroSekai)]()
