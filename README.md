@@ -29,7 +29,7 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,9 +37,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 
 > 📦 128.0 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2023
+> 🏆 44 Contributions in the Year 2023
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
@@ -69,7 +69,7 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -101,5 +101,5 @@ EJS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2023 13:49:08 UTC
+ Last Updated on 09/12/2023 15:11:07 UTC
 <!--END_SECTION:waka-->
