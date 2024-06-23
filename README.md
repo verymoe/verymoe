@@ -29,13 +29,13 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 218.0 kB Used in GitHub's Storage 
+> 📦 218.1 kB Used in GitHub's Storage 
  > 
 > 🏆 95 Contributions in the Year 2024
  > 
@@ -111,5 +111,5 @@ EJS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 12:41:22 UTC
+ Last Updated on 23/06/2024 18:37:12 UTC
 <!--END_SECTION:waka-->
