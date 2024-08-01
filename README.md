@@ -37,8 +37,6 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 
 > 📦 218.1 kB Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -108,5 +106,5 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 18:40:42 UTC
+ Last Updated on 01/08/2024 18:40:19 UTC
 <!--END_SECTION:waka-->
