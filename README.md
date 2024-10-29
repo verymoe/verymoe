@@ -29,15 +29,13 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 324.5 kB Used in GitHub's Storage 
- > 
-> 🏆 139 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,16 +70,21 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               17 mins             ██████████████░░░░░░░░░░░   55.94 % 
+Vue.js                   12 mins             ██████████░░░░░░░░░░░░░░░   41.15 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OnlineJudgeFE            31 mins             █████████████████████████   99.15 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -101,5 +104,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2024 18:45:03 UTC
+ Last Updated on 29/10/2024 18:45:14 UTC
 <!--END_SECTION:waka-->
