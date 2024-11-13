@@ -29,15 +29,13 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 324.6 kB Used in GitHub's Storage 
- > 
-> 🏆 139 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,17 +70,18 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-HTML                     13 mins             █████████████████████████   98.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+HTML                     13 mins             █████████████████████░░░░   85.83 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             █████████████████████████   100.00 % 
+Unknown Project          15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -102,5 +101,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 18:43:09 UTC
+ Last Updated on 13/11/2024 18:43:57 UTC
 <!--END_SECTION:waka-->
