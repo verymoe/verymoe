@@ -29,15 +29,13 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 324.6 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,8 +70,8 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-ExtendTypeScript         2 hrs 44 mins       ███████████████████████░░   91.22 % 
-GitIgnore file           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+ExtendTypeScript         2 hrs 44 mins       ███████████████████████░░   91.23 % 
+GitIgnore file           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 visual                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
@@ -82,8 +80,8 @@ TypeScript               0 secs              ░░░░░░░░░░░�
 DevEcoStudio             3 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MyApplication            2 hrs 18 mins       ███████████████████░░░░░░   76.55 % 
-Cars                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+MyApplication            2 hrs 18 mins       ███████████████████░░░░░░   76.57 % 
+Cars                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 💻 Operating System: 
@@ -107,5 +105,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 18:46:55 UTC
+ Last Updated on 28/11/2024 18:45:50 UTC
 <!--END_SECTION:waka-->
