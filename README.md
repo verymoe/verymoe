@@ -29,15 +29,13 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 622.0 kB Used in GitHub's Storage 
- > 
-> 🏆 143 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,16 +70,25 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+ExtendTypeScript         59 mins             █████████████████░░░░░░░░   66.90 % 
+Dart                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Devecostudio             59 mins             █████████████████░░░░░░░░   66.90 % 
+Android Studio           21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Cars                     59 mins             █████████████████░░░░░░░░   66.90 % 
+unit                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Unknown Project          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+che                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -101,5 +108,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 18:48:17 UTC
+ Last Updated on 11/12/2024 18:48:23 UTC
 <!--END_SECTION:waka-->
