@@ -29,8 +29,6 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
@@ -43,45 +41,6 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                34 commits          ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌆 Daytime                48 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌃 Evening                55 commits          ██████████░░░░░░░░░░░░░░░   39.01 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Tuesday                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Friday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Sunday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -99,5 +58,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 18:44:58 UTC
+ Last Updated on 09/01/2025 18:45:32 UTC
 <!--END_SECTION:waka-->
