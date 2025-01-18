@@ -29,7 +29,7 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -70,18 +70,18 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Dart                     2 hrs 1 min         █████████████████████████   99.76 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Dart                     2 hrs 37 mins       █████████████████████████   99.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 1 min         █████████████████████████   100.00 % 
+Android Studio           2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loding_animations        2 hrs 1 min         █████████████████████████   100.00 % 
+loding_animations        2 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -101,5 +101,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2025 18:42:26 UTC
+ Last Updated on 18/01/2025 18:40:18 UTC
 <!--END_SECTION:waka-->
