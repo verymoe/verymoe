@@ -31,7 +31,7 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,5 +101,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2025 18:40:18 UTC
+ Last Updated on 19/01/2025 18:40:30 UTC
 <!--END_SECTION:waka-->
