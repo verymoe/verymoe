@@ -35,7 +35,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 
 **🐱 My GitHub Data** 
 
-> 📦 622.0 kB Used in GitHub's Storage 
+> 📦 622.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,5 +101,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2025 18:43:42 UTC
+ Last Updated on 28/01/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
