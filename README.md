@@ -29,15 +29,13 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 622.1 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,16 +70,19 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      1 hr                ████████████████░░░░░░░░░   63.25 % 
+Kotlin                   35 mins             █████████░░░░░░░░░░░░░░░░   36.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Beer Adviser             1 hr 8 mins         ██████████████████░░░░░░░   71.87 % 
+My First App             21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Random Numbers           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -101,5 +102,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:45:05 UTC
+ Last Updated on 14/02/2025 18:43:37 UTC
 <!--END_SECTION:waka-->
