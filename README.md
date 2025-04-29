@@ -29,13 +29,15 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 622.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,20 +72,17 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Dart                     4 hrs 43 mins       █████████████████████████   99.16 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Dart                     2 hrs 17 mins       █████████████████████████   99.82 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Android Studio           4 hrs 45 mins       █████████████████████████   100.00 % 
+Android Studio           2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am                       4 hrs 45 mins       █████████████████████████   100.00 % 
+am                       2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -103,5 +102,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 18:48:31 UTC
+ Last Updated on 29/04/2025 18:47:32 UTC
 <!--END_SECTION:waka-->
