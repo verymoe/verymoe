@@ -29,15 +29,13 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 622.1 kB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,17 +70,19 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Dart                     2 hrs 17 mins       █████████████████████████   99.82 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Dart                     3 hrs 24 mins       █████████████████████████   99.51 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 17 mins       █████████████████████████   100.00 % 
+Android Studio           3 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am                       2 hrs 17 mins       █████████████████████████   100.00 % 
+untitled                 2 hrs 17 mins       █████████████████░░░░░░░░   67.06 % 
+am                       1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.94 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -102,5 +102,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 18:47:32 UTC
+ Last Updated on 30/04/2025 18:48:20 UTC
 <!--END_SECTION:waka-->
