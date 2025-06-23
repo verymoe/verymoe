@@ -35,9 +35,7 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 
 **🐱 My GitHub Data** 
 
-> 📦 622.1 kB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2025
+> 📦 622.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,18 +70,16 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Kotlin                   41 mins             ██████████████████░░░░░░░   72.35 % 
-XML                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Dart                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-01_Module_C              57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -103,5 +99,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2025 18:48:00 UTC
+ Last Updated on 23/06/2025 18:51:30 UTC
 <!--END_SECTION:waka-->
