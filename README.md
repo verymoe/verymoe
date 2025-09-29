@@ -29,6 +29,8 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -43,6 +45,45 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34 commits          ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+🌆 Daytime                50 commits          █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌃 Evening                55 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Tuesday                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Thursday                 21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Friday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -60,5 +101,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:43:18 UTC
+ Last Updated on 29/09/2025 18:48:16 UTC
 <!--END_SECTION:waka-->
