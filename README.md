@@ -45,6 +45,45 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                36 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌆 Daytime                59 commits          █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌃 Evening                58 commits          █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Friday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -62,5 +101,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2025 18:51:39 UTC
+ Last Updated on 26/12/2025 18:51:27 UTC
 <!--END_SECTION:waka-->
