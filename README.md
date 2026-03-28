@@ -72,19 +72,16 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 7 mins              ████████████████░░░░░░░░░   63.72 % 
-Python                   3 mins              ████████░░░░░░░░░░░░░░░░░   32.17 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -104,5 +101,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 19:23:09 UTC
+ Last Updated on 28/03/2026 19:07:02 UTC
 <!--END_SECTION:waka-->
