@@ -29,6 +29,8 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -43,6 +45,45 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+🌆 Daytime                64 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌃 Evening                76 commits          ██████████░░░░░░░░░░░░░░░   40.43 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Wednesday                36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Thursday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Friday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -60,5 +101,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:26 UTC
+ Last Updated on 25/07/2026 19:42:51 UTC
 <!--END_SECTION:waka-->
