@@ -29,7 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2017%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,16 +74,27 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    22 mins             ███████████████████░░░░░░   76.29 % 
+YAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Kotlin                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   24 mins             █████████████████████░░░░   82.99 % 
+Android Studio           5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HyperIsland              29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -101,5 +114,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:43:54 UTC
+ Last Updated on 27/07/2026 20:04:33 UTC
 <!--END_SECTION:waka-->
