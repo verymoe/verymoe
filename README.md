@@ -74,48 +74,47 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    22 mins             ██████████████░░░░░░░░░░░   55.10 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Go                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Other                    22 mins             ███████████████░░░░░░░░░░   61.41 % 
+YAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Go                       3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Kotlin                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-Chrome                   24 mins             ███████████████░░░░░░░░░░   59.94 % 
-VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Android Studio           5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Chrome                   24 mins             █████████████████░░░░░░░░   66.79 % 
+VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Android Studio           5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 
 🐱‍💻 Projects: 
-HyperIsland              29 mins             ██████████████████░░░░░░░   72.22 % 
-new-chat                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-ptz_controller           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-xian                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+HyperIsland              29 mins             ████████████████████░░░░░   80.49 % 
+new-chat                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+ji                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (27.78%)
+⏱ AI Coding Time: 7 mins (19.51%)
 
-✍️ 930 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 278 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,595,871 Input Tokens, 32,626 Output Tokens
+🔤 878,243 Input Tokens, 8,794 Output Tokens
 
-💵 $13.56 Estimated AI Cost This Week
+💵 $4.26 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 7 AI Prompts
 
-GPT                      933 lines           █████████████████████████   100.00 % 
+GPT                      281 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,087 characters per prompt
+📚 Verbose Prompter — average 4,664 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
+🚀 High AI Trust — 2.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -135,5 +134,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:43:28 UTC
+ Last Updated on 02/08/2026 19:43:34 UTC
 <!--END_SECTION:waka-->
