@@ -74,30 +74,30 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     30 mins             ██████████░░░░░░░░░░░░░░░   40.39 % 
-Other                    21 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-HTML                     19 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    21 mins             ████████░░░░░░░░░░░░░░░░░   32.80 % 
+YAML                     20 mins             ████████░░░░░░░░░░░░░░░░░   31.76 % 
+HTML                     19 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████░░░░░░░░   68.34 % 
-Chrome                   23 mins             ████████░░░░░░░░░░░░░░░░░   31.66 % 
+VS Code                  41 mins             ████████████████░░░░░░░░░   63.74 % 
+Chrome                   23 mins             █████████░░░░░░░░░░░░░░░░   36.26 % 
 
 🐱‍💻 Projects: 
-blog                     43 mins             ██████████████░░░░░░░░░░░   57.82 % 
-Unknown Project          31 mins             ███████████░░░░░░░░░░░░░░   42.18 % 
+blog                     43 mins             █████████████████░░░░░░░░   66.23 % 
+Unknown Project          22 mins             ████████░░░░░░░░░░░░░░░░░   33.77 % 
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (26.17%)
+⏱ AI Coding Time: 19 mins (29.97%)
 
-✍️ 56 lines written by AI, 32 lines written by hand (63.64% AI-written)
+✍️ 56 lines written by AI, 28 lines written by hand (66.67% AI-written)
 
 🔤 3,560,805 Input Tokens, 17,131 Output Tokens
 
@@ -108,10 +108,10 @@ Windows                  1 hr 15 mins        ███████████�
 GPT                      56 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.64% of written lines came from AI
+🤖 AI-Driven — 66.67% of written lines came from AI
 📚 Verbose Prompter — average 5,218 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 52.14% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -131,5 +131,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:11:40 UTC
+ Last Updated on 10/08/2026 19:30:44 UTC
 <!--END_SECTION:waka-->
