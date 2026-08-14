@@ -74,46 +74,44 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 53 mins       ████████████████████░░░░░   80.03 % 
-HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other                    2 hrs 31 mins       ██████████████████████░░░   87.69 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 55 mins       ████████████████████░░░░░   81.08 % 
-VS Code                  40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Chrome                   2 hrs 31 mins       ██████████████████████░░░   87.69 % 
+VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-c-users-shiro-appdata-loc2 hrs 32 mins       ██████████████████░░░░░░░   70.38 % 
-blog                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Unknown Project          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+c-users-shiro-appdata-loc2 hrs 32 mins       ██████████████████████░░░   88.04 % 
+Unknown Project          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (16.77%)
+⏱ AI Coding Time: 16 mins (9.62%)
 
-✍️ 56 lines written by AI, 8 lines written by hand (87.5% AI-written)
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
-🔤 3,581,531 Input Tokens, 18,216 Output Tokens
+🔤 20,726 Input Tokens, 1,085 Output Tokens
 
-💵 $18.27 Estimated AI Cost This Week
+💵 $0.14 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                      61 lines            █████████████████████████   100.00 % 
+GPT                      5 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.5% of written lines came from AI
-📚 Verbose Prompter — average 5,738 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.86% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 7,556 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 64.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -133,5 +131,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:34:50 UTC
+ Last Updated on 14/08/2026 19:29:17 UTC
 <!--END_SECTION:waka-->
