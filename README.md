@@ -74,44 +74,23 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 31 mins       █████████████████████░░░░   84.95 % 
-Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+JSON                     5 mins              ███████████████░░░░░░░░░░   59.61 % 
+YAML                     3 mins              ██████████░░░░░░░░░░░░░░░   40.39 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 31 mins       █████████████████████░░░░   84.95 % 
-VS Code                  26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c-users-shiro-appdata-loc2 hrs 32 mins       █████████████████████░░░░   85.29 % 
-Unknown Project          26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Unknown Project          9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (7.19%)
-
-✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
-
-🔤 77,089 Input Tokens, 4,245 Output Tokens
-
-💵 $0.36 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 7 AI Prompts
-
-GPT                      10 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 15,029 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -131,5 +110,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:07:44 UTC
+ Last Updated on 18/08/2026 19:07:25 UTC
 <!--END_SECTION:waka-->
