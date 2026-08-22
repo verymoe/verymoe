@@ -74,17 +74,16 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     5 mins              ███████████████░░░░░░░░░░   59.61 % 
-YAML                     3 mins              ██████████░░░░░░░░░░░░░░░   40.39 % 
+YAML                     3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 mins              █████████████████████████   100.00 % 
+Unknown Project          3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,5 +109,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:07:11 UTC
+ Last Updated on 22/08/2026 18:58:28 UTC
 <!--END_SECTION:waka-->
