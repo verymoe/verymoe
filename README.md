@@ -47,51 +47,6 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                65 commits          █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌃 Evening                77 commits          ██████████░░░░░░░░░░░░░░░   40.53 % 
-🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Wednesday                36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Friday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-YAML                     3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -109,5 +64,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:58:28 UTC
+ Last Updated on 23/08/2026 18:57:30 UTC
 <!--END_SECTION:waka-->
