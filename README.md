@@ -29,9 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,34 +74,34 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
-PowerShell               1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-INI                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    3 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.97 % 
+PowerShell               1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+INI                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.55 % 
-Chrome                   3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.56 % 
-VS Code                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Codex Vscode             4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.95 % 
+Chrome                   3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
+VS Code                  1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 
 🐱‍💻 Projects: 
-ZXHN G7615V2 Telnet      7 hrs 19 mins       ████████████████████░░░░░   78.03 % 
-SSH agent                1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-bloger                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+ZXHN G7615V2 Telnet      7 hrs 19 mins       ███████████████████░░░░░░   77.01 % 
+SSH agent                1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+bloger                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 shiro                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  9 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 30 mins (58.68%)
+⏱ AI Coding Time: 5 hrs 30 mins (58.03%)
 
-✍️ 2,358 lines written by AI, 27 lines written by hand (98.87% AI-written)
+✍️ 2,358 lines written by AI, 36 lines written by hand (98.5% AI-written)
 
 🔤 4,506,468 Input Tokens, 420,018 Output Tokens
 
@@ -115,10 +115,10 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.87% of written lines came from AI
+🤖 AI-Driven — 98.5% of written lines came from AI
 📚 Verbose Prompter — average 7,099 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.0% of changed lines were hand-edited
+🚀 High AI Trust — 2.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -138,5 +138,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:17:08 UTC
+ Last Updated on 29/08/2026 01:50:51 UTC
 <!--END_SECTION:waka-->
