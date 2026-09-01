@@ -29,7 +29,7 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2021%20mins-blue?style=flat)
 
@@ -74,50 +74,46 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.57 % 
-PowerShell               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-INI                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Other                    3 hrs 58 mins       ████████████████░░░░░░░░░   63.23 % 
+INI                      1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+PowerShell               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
-Chrome                   3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-VS Code                  1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Chrome                   3 hrs 37 mins       ██████████████░░░░░░░░░░░   57.63 % 
+Codex Vscode             2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.56 % 
+VS Code                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 🐱‍💻 Projects: 
-ZXHN G7615V2 Telnet      6 hrs 32 mins       ███████████████████░░░░░░   74.69 % 
-SSH agent                1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Unknown Project          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-bloger                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+ZXHN G7615V2 Telnet      4 hrs 12 mins       █████████████████░░░░░░░░   67.17 % 
+SSH agent                1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 💻 Operating System: 
-Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 44 mins (54.23%)
+⏱ AI Coding Time: 2 hrs 14 mins (35.77%)
 
-✍️ 2,475 lines written by AI, 36 lines written by hand (98.57% AI-written)
+✍️ 2,000 lines written by AI, 36 lines written by hand (98.23% AI-written)
 
-🔤 4,115,773 Input Tokens, 378,244 Output Tokens
+🔤 1,507,503 Input Tokens, 194,155 Output Tokens
 
-💵 $70.46 Estimated AI Cost This Week
+💵 $30.37 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 116 AI Prompts
+🧠 9 AI Sessions, 49 AI Prompts
 
-GPT                      2,346 lines         ████████████████████████░   94.79 % 
-Deepseek                 129 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,000 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.57% of written lines came from AI
-📚 Verbose Prompter — average 8,235 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.25% of changed lines were hand-edited
+🤖 AI-Driven — 98.23% of written lines came from AI
+📚 Verbose Prompter — average 7,188 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -137,5 +133,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 22:58:59 UTC
+ Last Updated on 01/09/2026 21:13:35 UTC
 <!--END_SECTION:waka-->
