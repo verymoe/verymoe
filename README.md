@@ -74,45 +74,43 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    3 hrs 58 mins       █████████████████████░░░░   84.91 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+YAML                     10 mins             ████████████░░░░░░░░░░░░░   48.00 % 
+Bash                     9 mins              ███████████░░░░░░░░░░░░░░   43.03 % 
+Go                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 37 mins       ███████████████████░░░░░░   77.39 % 
-Codex Vscode             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-VS Code                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+VS Code                  11 mins             ██████████████░░░░░░░░░░░   55.04 % 
+Codex Vscode             9 mins              ███████████░░░░░░░░░░░░░░   44.96 % 
 
 🐱‍💻 Projects: 
-ZXHN G7615V2 Telnet      4 hrs 12 mins       ███████████████████████░░   90.20 % 
-Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Unknown Project          11 mins             ██████████████░░░░░░░░░░░   56.97 % 
+ZXHN G7615V2 Telnet      9 mins              ███████████░░░░░░░░░░░░░░   43.03 % 
 
 💻 Operating System: 
-Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (13.75%)
+⏱ AI Coding Time: 11 mins (55.67%)
 
-✍️ 1,224 lines written by AI, 36 lines written by hand (97.14% AI-written)
+✍️ 1,194 lines written by AI, 9 lines written by hand (99.25% AI-written)
 
-🔤 357,874 Input Tokens, 65,992 Output Tokens
+🔤 196,359 Input Tokens, 37,101 Output Tokens
 
-💵 $6.98 Estimated AI Cost This Week
+💵 $2.82 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 16 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
-GPT                      1,224 lines         █████████████████████████   100.00 % 
+GPT                      1,194 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.14% of written lines came from AI
-📚 Verbose Prompter — average 6,736 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.45% of changed lines were hand-edited
+🤖 AI-Driven — 99.25% of written lines came from AI
+📚 Verbose Prompter — average 13,394 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -132,5 +130,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:12:29 UTC
+ Last Updated on 03/09/2026 21:13:38 UTC
 <!--END_SECTION:waka-->
