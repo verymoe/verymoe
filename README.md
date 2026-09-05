@@ -47,6 +47,76 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌆 Daytime                65 commits          █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌃 Evening                77 commits          ██████████░░░░░░░░░░░░░░░   40.53 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Wednesday                36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Friday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+JavaScript               16 mins             █████████████░░░░░░░░░░░░   52.94 % 
+Other                    10 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Go                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+
+🔥 Editors: 
+Codex Vscode             18 mins             ██████████████░░░░░░░░░░░   57.59 % 
+VS Code                  13 mins             ███████████░░░░░░░░░░░░░░   42.41 % 
+
+🐱‍💻 Projects: 
+Unknown Project          17 mins             ██████████████░░░░░░░░░░░   54.63 % 
+WeChatProjects           12 mins             ██████████░░░░░░░░░░░░░░░   38.37 % 
+bloger                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+
+💻 Operating System: 
+Windows                  31 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 mins (92.0%)
+
+✍️ 1,312 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 463,245 Input Tokens, 72,087 Output Tokens
+
+💵 $40.36 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 14 AI Prompts
+
+GPT                      1,246 lines         ███████████████████████░░   92.71 % 
+Deepseek                 98 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 17,507 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -64,5 +134,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:56:27 UTC
+ Last Updated on 05/09/2026 20:35:48 UTC
 <!--END_SECTION:waka-->
