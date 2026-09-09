@@ -29,9 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-638%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,51 +74,51 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JavaScript               1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Markdown                 1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-JSON                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Other                    1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Other                    6 hrs 26 mins       █████████████░░░░░░░░░░░░   52.58 % 
+JSON                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JavaScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       ██████████████░░░░░░░░░░░   56.96 % 
-Codex Vscode             1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Chrome                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Opencode Cli             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Chrome                   6 hrs 9 mins        █████████████░░░░░░░░░░░░   50.28 % 
+VS Code                  4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+Codex Vscode             1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Opencode Cli             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🐱‍💻 Projects: 
-ICVE                     3 hrs 43 mins       ███████████████░░░░░░░░░░   59.72 % 
-Unknown Project          1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-hentaiverse              51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-WeChatProjects           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-easytier-deploy          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+ICVE                     9 hrs 55 mins       ████████████████████░░░░░   80.98 % 
+Unknown Project          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+hentaiverse              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+test                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+easytier-deploy          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (86.79%)
+⏱ AI Coding Time: 6 hrs 2 mins (49.29%)
 
-✍️ 4,288 lines written by AI, 3 lines written by hand (99.93% AI-written)
+✍️ 4,285 lines written by AI, 3 lines written by hand (99.93% AI-written)
 
-🔤 6,664,790 Input Tokens, 644,642 Output Tokens
+🔤 7,650,062 Input Tokens, 708,521 Output Tokens
 
-💵 $305.14 Estimated AI Cost This Week
+💵 $284.16 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 106 AI Prompts
+🧠 29 AI Sessions, 112 AI Prompts
 
-GPT                      2,542 lines         █████████████░░░░░░░░░░░░   53.69 % 
-Deepseek                 1,331 lines         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Spark                    862 lines           █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+GPT                      2,187 lines         ████████████░░░░░░░░░░░░░   46.53 % 
+Deepseek                 1,651 lines         █████████░░░░░░░░░░░░░░░░   35.13 % 
+Spark                    862 lines           █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 13,117 characters per prompt
+📚 Verbose Prompter — average 11,186 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
@@ -140,5 +140,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:20:04 UTC
+ Last Updated on 09/09/2026 21:05:13 UTC
 <!--END_SECTION:waka-->
