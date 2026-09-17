@@ -74,53 +74,52 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.28 % 
-Python                   1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Python                   1 hr 16 mins        ███████████░░░░░░░░░░░░░░   45.82 % 
+Markdown                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Chrome                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-VS Code                  1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Codex Vscode             1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Opencode Cli             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-PyCharm                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Codex Vscode             1 hr 30 mins        ██████████████░░░░░░░░░░░   54.49 % 
+VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Chrome                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+PyCharm                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 
 🐱‍💻 Projects: 
-ICVE                     3 hrs 19 mins       ██████████████░░░░░░░░░░░   55.56 % 
-编程农场                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-ptz_bird_detection       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Unknown Project          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-shiro                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+编程农场                     52 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
+ptz_bird_detection       34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Unknown Project          23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+ICVE                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+shiro                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 💻 Operating System: 
-Windows                  5 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 54 mins (65.29%)
+⏱ AI Coding Time: 2 hrs 5 mins (74.92%)
 
-✍️ 3,993 lines written by AI, 4 lines written by hand (99.9% AI-written)
+✍️ 3,416 lines written by AI, 4 lines written by hand (99.88% AI-written)
 
-🔤 6,453,752 Input Tokens, 360,183 Output Tokens
+🔤 2,324,660 Input Tokens, 222,648 Output Tokens
 
-💵 $141.47 Estimated AI Cost This Week
+💵 $46.80 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 75 AI Prompts
+🧠 16 AI Sessions, 44 AI Prompts
 
-GPT                      3,424 lines         █████████████████████░░░░   84.67 % 
-Deepseek                 620 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,424 lines         █████████████████████████   99.80 % 
+Deepseek                 7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 2,600 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 4,388 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -140,5 +139,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:33:32 UTC
+ Last Updated on 17/09/2026 21:37:21 UTC
 <!--END_SECTION:waka-->
