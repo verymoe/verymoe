@@ -74,50 +74,49 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    4 hrs 31 mins       ███████████████████░░░░░░   77.11 % 
-Jupyter                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Other                    3 hrs 46 mins       ████████████████████░░░░░   80.35 % 
+Jupyter                  48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 36 mins       ████████████████████░░░░░   78.50 % 
-PyCharm                  49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Chrome                   3 hrs 46 mins       ████████████████████░░░░░   80.47 % 
+PyCharm                  49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-study                    4 hrs 35 mins       ████████████████████░░░░░   78.11 % 
-EasyTier                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-w                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+study                    4 hrs 35 mins       ████████████████████████░   97.83 % 
+w                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (4.98%)
+⏱ AI Coding Time: 12 mins (4.54%)
 
-✍️ 1,134 lines written by AI, 860 lines written by hand (56.87% AI-written)
+✍️ 1,134 lines written by AI, 845 lines written by hand (57.3% AI-written)
 
-🔤 221,924 Input Tokens, 33,883 Output Tokens
+🔤 162,461 Input Tokens, 23,869 Output Tokens
 
-💵 $6.58 Estimated AI Cost This Week
+💵 $3.32 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Deepseek                 632 lines           ██████████████░░░░░░░░░░░   55.73 % 
 GPT                      502 lines           ███████████░░░░░░░░░░░░░░   44.27 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.87% of written lines came from AI
-📝 Concise Prompter — average 398 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 60.25% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.3% of written lines came from AI
+📄 Detailed Prompter — average 624 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 59.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -137,5 +136,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:31:50 UTC
+ Last Updated on 28/09/2026 23:27:11 UTC
 <!--END_SECTION:waka-->
