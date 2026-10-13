@@ -29,9 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,22 +74,45 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 30 mins        ██████████████░░░░░░░░░░░   55.56 % 
+Go                       38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 30 mins        ██████████████░░░░░░░░░░░   55.56 % 
+Codex Vscode             1 hr 12 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+csync                    2 hrs 21 mins       ██████████████████████░░░   86.67 % 
+Unknown Project          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 12 mins (44.44%)
+
+✍️ 1,382 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 472,667 Input Tokens, 123,971 Output Tokens
+
+💵 $3.63 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+GPT                      1,400 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 124 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -109,5 +132,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:17:44 UTC
+ Last Updated on 13/10/2026 00:55:12 UTC
 <!--END_SECTION:waka-->
