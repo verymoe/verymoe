@@ -29,9 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,74 +47,6 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                65 commits          █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌃 Evening                77 commits          ██████████░░░░░░░░░░░░░░░   40.53 % 
-🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Wednesday                36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Friday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Other                    1 hr 30 mins        ██████████████░░░░░░░░░░░   55.56 % 
-Go                       38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-
-🔥 Editors: 
-Chrome                   1 hr 30 mins        ██████████████░░░░░░░░░░░   55.56 % 
-Codex Vscode             1 hr 12 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🐱‍💻 Projects: 
-csync                    2 hrs 21 mins       ██████████████████████░░░   86.67 % 
-Unknown Project          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-
-💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 12 mins (44.44%)
-
-✍️ 1,382 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 472,667 Input Tokens, 123,971 Output Tokens
-
-💵 $3.63 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-GPT                      1,400 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -132,5 +64,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:50:05 UTC
+ Last Updated on 18/10/2026 20:58:21 UTC
 <!--END_SECTION:waka-->
