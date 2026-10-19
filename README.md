@@ -47,6 +47,78 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌆 Daytime                65 commits          █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌃 Evening                77 commits          ██████████░░░░░░░░░░░░░░░   40.53 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Wednesday                36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Friday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Markdown                 1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   35.16 % 
+Rust                     1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+
+🔥 Editors: 
+Codex Vscode             2 hrs 56 mins       ███████████████████░░░░░░   74.02 % 
+Opencode Cli             49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+
+🐱‍💻 Projects: 
+ecloud                   2 hrs 56 mins       ███████████████████░░░░░░   74.02 % 
+video                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Desktop                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+
+💻 Operating System: 
+Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 57 mins (99.89%)
+
+✍️ 2,582 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,516,950 Input Tokens, 347,912 Output Tokens
+
+💵 $51.73 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 22 AI Prompts
+
+GPT                      1,656 lines         ████████████████░░░░░░░░░   63.72 % 
+DeepSeek                 943 lines           █████████░░░░░░░░░░░░░░░░   36.28 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,263 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -64,5 +136,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:58:21 UTC
+ Last Updated on 19/10/2026 22:34:11 UTC
 <!--END_SECTION:waka-->
