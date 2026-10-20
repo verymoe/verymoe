@@ -74,47 +74,47 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   35.16 % 
-Rust                     1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Python                   53 mins             ████████████░░░░░░░░░░░░░   46.01 % 
+Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   31.14 % 
+PowerShell               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 56 mins       ███████████████████░░░░░░   74.02 % 
-Opencode Cli             49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Codex Vscode             53 mins             ████████████░░░░░░░░░░░░░   46.35 % 
+Opencode Cli             49 mins             ███████████░░░░░░░░░░░░░░   43.13 % 
+VS Code                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 
 🐱‍💻 Projects: 
-ecloud                   2 hrs 56 mins       ███████████████████░░░░░░   74.02 % 
-video                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Desktop                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+ecloud                   53 mins             ████████████░░░░░░░░░░░░░   46.35 % 
+video                    48 mins             ██████████░░░░░░░░░░░░░░░   41.90 % 
+Desktop                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (99.89%)
+⏱ AI Coding Time: 1 hr 54 mins (99.77%)
 
-✍️ 2,582 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,878 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,516,950 Input Tokens, 347,912 Output Tokens
+🔤 1,938,978 Input Tokens, 210,281 Output Tokens
 
-💵 $51.73 Estimated AI Cost This Week
+💵 $45.93 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 22 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-GPT                      1,656 lines         ████████████████░░░░░░░░░   63.72 % 
-DeepSeek                 943 lines           █████████░░░░░░░░░░░░░░░░   36.28 % 
+GPT                      952 lines           █████████████░░░░░░░░░░░░   50.24 % 
+DeepSeek                 943 lines           ████████████░░░░░░░░░░░░░   49.76 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,263 characters per prompt
+📄 Detailed Prompter — average 1,144 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -136,5 +136,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:34:11 UTC
+ Last Updated on 20/10/2026 21:48:05 UTC
 <!--END_SECTION:waka-->
