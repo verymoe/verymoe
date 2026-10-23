@@ -29,9 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,46 +74,47 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   50 mins             ███████████████░░░░░░░░░░   58.53 % 
-Markdown                 22 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-PowerShell               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 22 mins             █████████░░░░░░░░░░░░░░░░   34.04 % 
+PowerShell               13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+C#                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 🔥 Editors: 
-Codex Vscode             37 mins             ███████████░░░░░░░░░░░░░░   43.75 % 
-Opencode Cli             36 mins             ███████████░░░░░░░░░░░░░░   43.05 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Codex Vscode             37 mins             ██████████████░░░░░░░░░░░   56.04 % 
+VS Code                  27 mins             ██████████░░░░░░░░░░░░░░░   41.23 % 
+OpenCode                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-video                    48 mins             ██████████████░░░░░░░░░░░   56.25 % 
-ecloud                   37 mins             ███████████░░░░░░░░░░░░░░   43.75 % 
+ecloud                   37 mins             ██████████████░░░░░░░░░░░   56.04 % 
+Unknown Project          14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Desktop                  10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+shiro                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (100.0%)
+⏱ AI Coding Time: 54 mins (81.11%)
 
-✍️ 651 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 890 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 658,476 Input Tokens, 129,581 Output Tokens
+🔤 692,189 Input Tokens, 141,627 Output Tokens
 
-💵 $14.12 Estimated AI Cost This Week
+💵 $11.97 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
-GPT                      492 lines           ███████████████████░░░░░░   75.46 % 
-DeepSeek                 160 lines           ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      492 lines           ██████████████░░░░░░░░░░░   55.22 % 
+DeepSeek                 399 lines           ███████████░░░░░░░░░░░░░░   44.78 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,746 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 1,903 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -134,5 +135,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:51:18 UTC
+ Last Updated on 23/10/2026 21:35:29 UTC
 <!--END_SECTION:waka-->
