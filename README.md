@@ -74,46 +74,43 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 22 mins             █████████░░░░░░░░░░░░░░░░   34.04 % 
-PowerShell               13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-C#                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+YAML                     12 mins             ███████████░░░░░░░░░░░░░░   42.98 % 
+Other                    7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+C#                       6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+PowerShell               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Codex Vscode             37 mins             ██████████████░░░░░░░░░░░   56.04 % 
-VS Code                  27 mins             ██████████░░░░░░░░░░░░░░░   41.23 % 
-OpenCode                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+VS Code                  27 mins             ███████████████████████░░   93.80 % 
+OpenCode                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🐱‍💻 Projects: 
-ecloud                   37 mins             ██████████████░░░░░░░░░░░   56.04 % 
-Unknown Project          14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Desktop                  10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-shiro                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Unknown Project          14 mins             ████████████░░░░░░░░░░░░░   49.71 % 
+Desktop                  10 mins             █████████░░░░░░░░░░░░░░░░   34.25 % 
+shiro                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (81.11%)
+⏱ AI Coding Time: 16 mins (57.02%)
 
-✍️ 890 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 399 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 692,189 Input Tokens, 141,627 Output Tokens
+🔤 128,619 Input Tokens, 63,311 Output Tokens
 
-💵 $11.97 Estimated AI Cost This Week
+💵 $8.64 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-GPT                      492 lines           ██████████████░░░░░░░░░░░   55.22 % 
-DeepSeek                 399 lines           ███████████░░░░░░░░░░░░░░   44.78 % 
+DeepSeek                 399 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,903 characters per prompt
+📝 Concise Prompter — average 41 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -135,5 +132,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 21:04:56 UTC
+ Last Updated on 25/10/2026 21:06:06 UTC
 <!--END_SECTION:waka-->
