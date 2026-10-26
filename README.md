@@ -29,9 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,44 +74,47 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     12 mins             ███████████░░░░░░░░░░░░░░   42.98 % 
-Other                    7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-C#                       6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-PowerShell               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+YAML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+JavaScript               10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+C#                       6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-VS Code                  27 mins             ███████████████████████░░   93.80 % 
-OpenCode                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+VS Code                  43 mins             ████████████████████████░   95.37 % 
+OpenCode                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 mins             ████████████░░░░░░░░░░░░░   49.71 % 
-Desktop                  10 mins             █████████░░░░░░░░░░░░░░░░   34.25 % 
-shiro                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Unknown Project          14 mins             ████████░░░░░░░░░░░░░░░░░   32.33 % 
+medicine-calculator      13 mins             ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+Desktop                  10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+shiro                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+bloger                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (57.02%)
+⏱ AI Coding Time: 32 mins (72.05%)
 
-✍️ 399 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 809 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 128,619 Input Tokens, 63,311 Output Tokens
+🔤 283,151 Input Tokens, 112,469 Output Tokens
 
-💵 $8.64 Estimated AI Cost This Week
+💵 $18.85 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 5 AI Sessions, 7 AI Prompts
 
-DeepSeek                 399 lines           █████████████████████████   100.00 % 
+DeepSeek                 514 lines           ████████████████░░░░░░░░░   63.54 % 
+GPT                      295 lines           █████████░░░░░░░░░░░░░░░░   36.46 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 498 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -132,5 +135,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:06:06 UTC
+ Last Updated on 26/10/2026 22:50:09 UTC
 <!--END_SECTION:waka-->
