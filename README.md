@@ -29,9 +29,9 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,49 +74,48 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    7 hrs 31 mins       ██████████████████████░░░   89.57 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    2 hrs 30 mins       █████████████░░░░░░░░░░░░   50.55 % 
+TypeScript               47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+TOML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 34 mins       ███████████████████████░░   90.19 % 
-VS Code                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Chrome                   2 hrs 39 mins       █████████████░░░░░░░░░░░░   53.40 % 
+VS Code                  1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   36.05 % 
+Codex Vscode             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 
 🐱‍💻 Projects: 
-blog                     8 hrs 4 mins        ████████████████████████░   96.06 % 
-email                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+moepush                  3 hrs 20 mins       █████████████████░░░░░░░░   67.24 % 
+blog                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+email                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Windows                  8 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (6.55%)
+⏱ AI Coding Time: 1 hr 44 mins (35.0%)
 
-✍️ 365 lines written by AI, 2 lines written by hand (99.46% AI-written)
+✍️ 1,538 lines written by AI, 11 lines written by hand (99.29% AI-written)
 
-🔤 718,976 Input Tokens, 32,017 Output Tokens
+🔤 1,141,707 Input Tokens, 186,044 Output Tokens
 
-💵 $4.00 Estimated AI Cost This Week
+💵 $84.90 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
-GPT                      395 lines           █████████████████████████   100.00 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,484 lines         ██████████████████████░░░   87.35 % 
+DeepSeek                 215 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📝 Concise Prompter — average 450 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.74% of changed lines were hand-edited
+🤖 AI-Driven — 99.29% of written lines came from AI
+📝 Concise Prompter — average 331 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 4.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -136,5 +135,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 00:47:29 UTC
+ Last Updated on 21/11/2026 00:06:32 UTC
 <!--END_SECTION:waka-->
