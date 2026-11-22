@@ -29,7 +29,7 @@ Ciallo～(∠・ω< )⌒★ 你好！我的网名是Shiro，译为白，所以�
 [![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=shiro)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%209%20mins-blue?style=flat)
 
@@ -74,34 +74,34 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.40 % 
-TypeScript               47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Go                       37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-TOML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other                    2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
+TypeScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Go                       37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+TOML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.30 % 
-VS Code                  2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
-Codex Vscode             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Chrome                   2 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.34 % 
+VS Code                  2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.50 % 
+Codex Vscode             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 🐱‍💻 Projects: 
-moepush                  3 hrs 20 mins       ███████████████░░░░░░░░░░   60.82 % 
-blog                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-email                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-ZXHN G7615V2 Telnet      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+moepush                  3 hrs 20 mins       ███████████████░░░░░░░░░░   58.35 % 
+blog                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+email                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+ZXHN G7615V2 Telnet      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (42.5%)
+⏱ AI Coding Time: 2 hrs 19 mins (40.78%)
 
-✍️ 2,191 lines written by AI, 9 lines written by hand (99.59% AI-written)
+✍️ 2,191 lines written by AI, 13 lines written by hand (99.41% AI-written)
 
 🔤 1,497,180 Input Tokens, 235,156 Output Tokens
 
@@ -113,10 +113,10 @@ GPT                      2,137 lines         ███████████�
 DeepSeek                 215 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
+🤖 AI-Driven — 99.41% of written lines came from AI
 📝 Concise Prompter — average 253 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.17% of changed lines were hand-edited
+🚀 High AI Trust — 3.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -136,5 +136,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/verymoe/verymoe/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 23:32:06 UTC
+ Last Updated on 22/11/2026 23:44:37 UTC
 <!--END_SECTION:waka-->
